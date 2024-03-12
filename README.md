@@ -21,9 +21,11 @@ This fork follows the MIT License used by the original author.
 
 ## Installation
 
-Download the zip package from [Github Release](https://github.com/jackzzs/FourFingersDragOnWindows/releases and run ""
+Download the zip package from [Github Release](https://github.com/jackzzs/FourFingersDragOnWindows/releases) and run `FourFingersDragOnWindows.exe`.
 
-If the installation fails, your computer might need to have the Windows App SDK redistributable installed. You can download it from this page: [https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads).
+You can enable the `Run at Startup` option from the `Other Settings` page of the program.
+
+You may need to have the Windows App SDK redistributable installed. You can download it from this page: [https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads).
 
 ## How to use
 
