@@ -14,9 +14,9 @@ This fork follows the MIT License used by the original author.
 
 ## Preview
 <p align="center">
-  <img src='https://raw.githubusercontent.com/ClementGre/ThreeFingersDragOnWindows/main/ThreeFingersDragOnWindows/Assets/Screenshot-1.png' alt="App screenshot: Touchpad tab" width='700'>
-  <img src='https://raw.githubusercontent.com/ClementGre/ThreeFingersDragOnWindows/main/ThreeFingersDragOnWindows/Assets/Screenshot-2.png' alt="App screenshot: Three Fingers Drag tab" width='700'>
-  <img src='https://raw.githubusercontent.com/ClementGre/ThreeFingersDragOnWindows/main/ThreeFingersDragOnWindows/Assets/Screenshot-3.png' alt="App screenshot: Other Settings tab" width='700'>
+  <img src='https://raw.githubusercontent.com/jackzzs/FourFingersDragOnWindows/main/ThreeFingersDragOnWindows/Assets/Screenshot-1.png' alt="App screenshot: Touchpad tab" width='700'>
+  <img src='https://raw.githubusercontent.com/jackzzs/FourFingersDragOnWindows/main/ThreeFingersDragOnWindows/Assets/Screenshot-2.png' alt="App screenshot: Three Fingers Drag tab" width='700'>
+  <img src='https://raw.githubusercontent.com/jackzzs/FourFingersDragOnWindows/main/ThreeFingersDragOnWindows/Assets/Screenshot-3.png' alt="App screenshot: Other Settings tab" width='700'>
 </p>
 
 ## Installation
