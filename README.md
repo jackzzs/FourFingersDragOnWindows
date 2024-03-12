@@ -1,5 +1,4 @@
 [![Release](https://img.shields.io/github/v/release/jackzzs/FourFingersDragOnWindows?label=Download%20version)](https://github.com/jackzzs/FourFingersDragOnWindows/releases/latest)
-[![TotalDownloads](https://img.shields.io/github/downloads/jackzzs/FourFingersDragOnWindows/total)](https://github.com/jackzzs/FourFingersDragOnWindows/releases/latest)
 
 ## Overview and fork description
 This program can bring the macOS-style three-finger dragging functionality to Windows computers, to select text or perform other selecting operations.
