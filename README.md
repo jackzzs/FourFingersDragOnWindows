@@ -23,14 +23,15 @@ This fork follows the MIT License used by the original author.
 
 Download the zip package from [Github Release](https://github.com/jackzzs/FourFingersDragOnWindows/releases) and run `FourFingersDragOnWindows.exe`.
 
-You can enable the `Run at Startup` option from the `Other Settings` page of the program.
-
 You may need to have the Windows App SDK redistributable installed. You can download it from this page: [https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads).
+
+The program will start minimizd and you can show the settings panel from the taskbar icon.
+
+You can enable the `Run at Startup` option from the `Other Settings` page of the settings panel.
 
 ## How to use
 
-Make sure to disable the "Tap twice and drag to multi-select" behaviour and all of the defaults 3-finger and 4-finger swipe behaviour
-via ``Touchpad settings`` in windows preferences for the drag to work without interferences.
+Make sure to disable the "Tap twice and drag to multi-select" behaviour and all of the defaults 3-finger and 4-finger swipe behaviour via ``Touchpad settings`` in windows preferences for the drag to work without interferences.
 
 To open the configuration pane, click the FourFingersDragOnWindows tray icon on the Windows task bar.
 
